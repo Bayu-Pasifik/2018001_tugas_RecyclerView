@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">2018001_RecycleView</string>
+
+        <string-array name="film">
+            <item>Avanger</item>
+            <item>Spiderman Far From Home</item>
+            <item>Guardian Of Galaxy</item>
+            <item>Doctor Strange Multiverse Of Madness</item>
+        </string-array>
+        <string-array name="star">
+            <item>4.5</item>
+            <item>4.7</item>
+            <item>4.4</item>
+            <item>4.9</item>
+        </string-array>
+        <string-array name="Genre">
+            <item>Action,Super Hero, Adventure</item>
+            <item>Action,Super Hero, Adventure,comedy</item>
+            <item>Action,Super Hero, Adventure,comedy,Galaxy</item>
+            <item>Action,Super Hero, Adventure,Psychological,Sci-Fi</item>
+
+        </string-array>
+
+</resources>
